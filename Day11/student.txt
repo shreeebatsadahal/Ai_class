@@ -1,0 +1,14 @@
+-----RESULT-----Name=shreeName=1----MARKS---------RESULT-----Name=shreeName=1----MARKS----phy:50.0-----RESULT----- 
+Name=50 
+Name=36 
+----MARKS---- 
+phy:50.0 
+-----RESULT----- 
+Name=shree 
+Name=1 
+----MARKS---- 
+phy:50.0 
+chem:50.0 
+math:50.0 
+----FINAl Score----
+percentage50.0
